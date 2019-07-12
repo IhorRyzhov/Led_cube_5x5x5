@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ATmega8 led_cube", "ATmega8 led_cube\ATmega8 led_cube.cproj", "{403D19FE-F074-4227-B1BE-4C9F2BE15090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403D19FE-F074-4227-B1BE-4C9F2BE15090}.Debug|AVR.ActiveCfg = Debug|AVR
+		{403D19FE-F074-4227-B1BE-4C9F2BE15090}.Debug|AVR.Build.0 = Debug|AVR
+		{403D19FE-F074-4227-B1BE-4C9F2BE15090}.Release|AVR.ActiveCfg = Release|AVR
+		{403D19FE-F074-4227-B1BE-4C9F2BE15090}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
